@@ -1,0 +1,2246 @@
+[
+    {
+        "name": "SG: Approach the Green",
+        "link": "/stats/stat.02568.html"
+    },
+    {
+        "name": "Greens in Regulation Percentage",
+        "link": "/stats/stat.103.html"
+    },
+    {
+        "name": "Greens or Fringe in Regulation",
+        "link": "/stats/stat.02437.html"
+    },
+    {
+        "name": "GIR Percentage - 200+ yards",
+        "link": "/stats/stat.326.html"
+    },
+    {
+        "name": "GIR Percentage - 175-200 yards",
+        "link": "/stats/stat.327.html"
+    },
+    {
+        "name": "GIR Percentage - 150-175 yards",
+        "link": "/stats/stat.328.html"
+    },
+    {
+        "name": "GIR Percentage - 125-150 yards",
+        "link": "/stats/stat.329.html"
+    },
+    {
+        "name": "GIR Percentage - < 125 yards",
+        "link": "/stats/stat.330.html"
+    },
+    {
+        "name": "GIR Percentage - 100-125 yards",
+        "link": "/stats/stat.077.html"
+    },
+    {
+        "name": "GIR Percentage - 100+ yards",
+        "link": "/stats/stat.02332.html"
+    },
+    {
+        "name": "GIR Percentage - < 100 yards",
+        "link": "/stats/stat.02330.html"
+    },
+    {
+        "name": "GIR Percentage - 75-100 yards",
+        "link": "/stats/stat.078.html"
+    },
+    {
+        "name": "GIR Percentage - < 75 yards",
+        "link": "/stats/stat.079.html"
+    },
+    {
+        "name": "GIR Percentage from Fairway",
+        "link": "/stats/stat.190.html"
+    },
+    {
+        "name": "GIR Pct. - Fairway Bunker",
+        "link": "/stats/stat.02434.html"
+    },
+    {
+        "name": "GIR Percentage from Other than Fairway",
+        "link": "/stats/stat.199.html"
+    },
+    {
+        "name": "Proximity to Hole",
+        "link": "/stats/stat.331.html"
+    },
+    {
+        "name": "Approaches from > 275 yards",
+        "link": "/stats/stat.02361.html"
+    },
+    {
+        "name": "Approaches from 250-275 yards",
+        "link": "/stats/stat.02360.html"
+    },
+    {
+        "name": "Approaches from 225-250 yards",
+        "link": "/stats/stat.02359.html"
+    },
+    {
+        "name": "Approaches from 200-225 yards",
+        "link": "/stats/stat.02358.html"
+    },
+    {
+        "name": "Approaches from > 200 yards",
+        "link": "/stats/stat.336.html"
+    },
+    {
+        "name": "Approaches from 175-200 yards",
+        "link": "/stats/stat.337.html"
+    },
+    {
+        "name": "Approaches from 150-175 yards",
+        "link": "/stats/stat.338.html"
+    },
+    {
+        "name": "Approaches from 125-150 yards",
+        "link": "/stats/stat.339.html"
+    },
+    {
+        "name": "Approaches from 50-125 yards",
+        "link": "/stats/stat.340.html"
+    },
+    {
+        "name": "Approaches from 100-125 yards",
+        "link": "/stats/stat.074.html"
+    },
+    {
+        "name": "Approaches from 75-100 yards",
+        "link": "/stats/stat.075.html"
+    },
+    {
+        "name": "Approaches from 50-75 yards",
+        "link": "/stats/stat.076.html"
+    },
+    {
+        "name": "Approaches from inside 100 yards",
+        "link": "/stats/stat.02329.html"
+    },
+    {
+        "name": "Approaches from > 100 yards",
+        "link": "/stats/stat.02331.html"
+    },
+    {
+        "name": "Fairway Proximity",
+        "link": "/stats/stat.431.html"
+    },
+    {
+        "name": "Approaches from > 275 yards (Rgh)",
+        "link": "/stats/stat.02375.html"
+    },
+    {
+        "name": "Approaches from 250-275 yards (Rgh)",
+        "link": "/stats/stat.02374.html"
+    },
+    {
+        "name": "Approaches from 225-250 yards (Rgh)",
+        "link": "/stats/stat.02373.html"
+    },
+    {
+        "name": "Approaches from 200-225 yards (Rgh)",
+        "link": "/stats/stat.02372.html"
+    },
+    {
+        "name": "Approaches from > 100 yards (Rgh)",
+        "link": "/stats/stat.02371.html"
+    },
+    {
+        "name": "Approaches from inside 100 yards (Rgh)",
+        "link": "/stats/stat.02370.html"
+    },
+    {
+        "name": "Approaches from > 200 yards (Rgh)",
+        "link": "/stats/stat.02369.html"
+    },
+    {
+        "name": "Approaches from 175-200 yards (Rgh)",
+        "link": "/stats/stat.02368.html"
+    },
+    {
+        "name": "Approaches from 150-175 yards (Rgh)",
+        "link": "/stats/stat.02367.html"
+    },
+    {
+        "name": "Approaches from 125-150 yards (Rgh)",
+        "link": "/stats/stat.02366.html"
+    },
+    {
+        "name": "Approaches from 50-125 yards (Rgh)",
+        "link": "/stats/stat.02365.html"
+    },
+    {
+        "name": "Approaches from 100-125 yards (Rgh)",
+        "link": "/stats/stat.02364.html"
+    },
+    {
+        "name": "Approaches from 75-100 yards (Rgh)",
+        "link": "/stats/stat.02363.html"
+    },
+    {
+        "name": "Approaches from 50-75 yards (Rgh)",
+        "link": "/stats/stat.02362.html"
+    },
+    {
+        "name": "Rough Proximity",
+        "link": "/stats/stat.437.html"
+    },
+    {
+        "name": "Left Rough Proximity",
+        "link": "/stats/stat.432.html"
+    },
+    {
+        "name": "Right Rough Proximity",
+        "link": "/stats/stat.433.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Fairway",
+        "link": "/stats/stat.02333.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Left Rough",
+        "link": "/stats/stat.02334.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Right Rough",
+        "link": "/stats/stat.02335.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Rough",
+        "link": "/stats/stat.02336.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 200+ yards",
+        "link": "/stats/stat.357.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 175-200 yards",
+        "link": "/stats/stat.358.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 150-175 yards",
+        "link": "/stats/stat.359.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 125-150 yards",
+        "link": "/stats/stat.360.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - < 125 yards",
+        "link": "/stats/stat.361.html"
+    },
+    {
+        "name": "Approach > 275 yards (RTP)",
+        "link": "/stats/stat.02379.html"
+    },
+    {
+        "name": "Approach 250-275 yards (RTP)",
+        "link": "/stats/stat.02378.html"
+    },
+    {
+        "name": "Approach 225-250 yards (RTP)",
+        "link": "/stats/stat.02377.html"
+    },
+    {
+        "name": "Approach 200-225 yards (RTP)",
+        "link": "/stats/stat.02376.html"
+    },
+    {
+        "name": "Approach > 200 yards (RTP Score)",
+        "link": "/stats/stat.480.html"
+    },
+    {
+        "name": "Approach 175-200 yards (RTP Score)",
+        "link": "/stats/stat.479.html"
+    },
+    {
+        "name": "Approach 150-175 yards (RTP Score)",
+        "link": "/stats/stat.478.html"
+    },
+    {
+        "name": "Approach 125-150 yards (RTP Score)",
+        "link": "/stats/stat.473.html"
+    },
+    {
+        "name": "Approach < 125 yards (RTP Score)",
+        "link": "/stats/stat.472.html"
+    },
+    {
+        "name": "Approach 100-125 yards (RTP Score)",
+        "link": "/stats/stat.028.html"
+    },
+    {
+        "name": "Approach 75-100 yards (RTP Score)",
+        "link": "/stats/stat.029.html"
+    },
+    {
+        "name": "Approach 50-75 yards (RTP Score)",
+        "link": "/stats/stat.030.html"
+    },
+    {
+        "name": "Approaches 50-75 yards-Rgh (RTP)",
+        "link": "/stats/stat.02380.html"
+    },
+    {
+        "name": "Approaches 75-100 yards-Rgh (RTP)",
+        "link": "/stats/stat.02381.html"
+    },
+    {
+        "name": "Approaches 100-125 yards-Rgh (RTP)",
+        "link": "/stats/stat.02382.html"
+    },
+    {
+        "name": "Approaches 50-125 yards-Rgh (RTP)",
+        "link": "/stats/stat.02383.html"
+    },
+    {
+        "name": "Approaches 125-150 yards-Rgh (RTP)",
+        "link": "/stats/stat.02384.html"
+    },
+    {
+        "name": "Approaches 150-175 yards-Rgh (RTP)",
+        "link": "/stats/stat.02385.html"
+    },
+    {
+        "name": "Approaches 175-200 yards-Rgh (RTP)",
+        "link": "/stats/stat.02386.html"
+    },
+    {
+        "name": "Approaches > 200 yards-Rgh (RTP)",
+        "link": "/stats/stat.02387.html"
+    },
+    {
+        "name": "Approaches < 100 yards-Rgh (RTP)",
+        "link": "/stats/stat.02388.html"
+    },
+    {
+        "name": "Approaches > 100 yards-Rgh (RTP)",
+        "link": "/stats/stat.02389.html"
+    },
+    {
+        "name": "Approaches 200-225 yards-Rgh (RTP)",
+        "link": "/stats/stat.02390.html"
+    },
+    {
+        "name": "Approaches 225-250 yards-Rgh (RTP)",
+        "link": "/stats/stat.02391.html"
+    },
+    {
+        "name": "Approaches 250-275 yards-Rgh (RTP)",
+        "link": "/stats/stat.02392.html"
+    },
+    {
+        "name": "Approaches > 275 yards-Rgh (RTP)",
+        "link": "/stats/stat.02393.html"
+    },
+    {
+        "name": "Approaches Left Rough (RTP Score)",
+        "link": "/stats/stat.469.html"
+    },
+    {
+        "name": "Approaches Right Rough (RTP Score)",
+        "link": "/stats/stat.470.html"
+    },
+    {
+        "name": "Fairway Approach (RTP Score)",
+        "link": "/stats/stat.471.html"
+    },
+    {
+        "name": "Going for the Green",
+        "link": "/stats/stat.419.html"
+    },
+    {
+        "name": "Going for the Green - Hit Green Pct.",
+        "link": "/stats/stat.486.html"
+    },
+    {
+        "name": "Going for the Green - Birdie or Better",
+        "link": "/stats/stat.02357.html"
+    },
+    {
+        "name": "Par 5 Going for the Green",
+        "link": "/stats/stat.436.html"
+    },
+    {
+        "name": "Average Going for it Shot Distance (in Yards)",
+        "link": "/stats/stat.02426.html"
+    },
+    {
+        "name": "Average Distance after Going for it Shot",
+        "link": "/stats/stat.02431.html"
+    },
+    {
+        "name": "Total Hole Outs",
+        "link": "/stats/stat.350.html"
+    },
+    {
+        "name": "Longest Hole Outs (in yards)",
+        "link": "/stats/stat.351.html"
+    },
+    {
+        "name": "Average Approach Shot Distance",
+        "link": "/stats/stat.02325.html"
+    },
+    {
+        "name": "Average Approach Distance - Birdie or Better",
+        "link": "/stats/stat.02338.html"
+    },
+    {
+        "name": "Average Approach Distance - Par",
+        "link": "/stats/stat.02339.html"
+    },
+    {
+        "name": "Average Approach Distance - Bogey or Worse",
+        "link": "/stats/stat.02340.html"
+    },
+    {
+        "name": "Average Distance to Hole After Tee Shot",
+        "link": "/stats/stat.02430.html"
+    },
+    {
+        "name": "SG: Around-the-Green",
+        "link": "/stats/stat.02569.html"
+    },
+    {
+        "name": "Sand Save Percentage",
+        "link": "/stats/stat.111.html"
+    },
+    {
+        "name": "Sand Saves from 30+ yards",
+        "link": "/stats/stat.370.html"
+    },
+    {
+        "name": "Sand Saves from 20-30 yards",
+        "link": "/stats/stat.371.html"
+    },
+    {
+        "name": "Sand Saves from 10-20 yards",
+        "link": "/stats/stat.372.html"
+    },
+    {
+        "name": "Sand Saves from < 10 yards",
+        "link": "/stats/stat.373.html"
+    },
+    {
+        "name": "Scrambling",
+        "link": "/stats/stat.130.html"
+    },
+    {
+        "name": "Scrambling from the Sand",
+        "link": "/stats/stat.362.html"
+    },
+    {
+        "name": "Scrambling from the Rough",
+        "link": "/stats/stat.363.html"
+    },
+    {
+        "name": "Scrambling from the Fringe",
+        "link": "/stats/stat.364.html"
+    },
+    {
+        "name": "Scrambling from Other Locations",
+        "link": "/stats/stat.365.html"
+    },
+    {
+        "name": "Scrambling from > 30 yards",
+        "link": "/stats/stat.366.html"
+    },
+    {
+        "name": "Scrambling from 20-30 yards",
+        "link": "/stats/stat.367.html"
+    },
+    {
+        "name": "Scrambling from 10-20 yards",
+        "link": "/stats/stat.368.html"
+    },
+    {
+        "name": "Scrambling from < 10 yards",
+        "link": "/stats/stat.369.html"
+    },
+    {
+        "name": "Proximity to Hole (ARG)",
+        "link": "/stats/stat.374.html"
+    },
+    {
+        "name": "Proximity to Hole from Sand",
+        "link": "/stats/stat.375.html"
+    },
+    {
+        "name": "Proximity to Hole from Fringe",
+        "link": "/stats/stat.377.html"
+    },
+    {
+        "name": "Proximity to Hole from Rough",
+        "link": "/stats/stat.376.html"
+    },
+    {
+        "name": "Proximity to Hole from Other Locations",
+        "link": "/stats/stat.378.html"
+    },
+    {
+        "name": "Proximity to Hole from 30+ yards",
+        "link": "/stats/stat.379.html"
+    },
+    {
+        "name": "Proximity to Hole from 20-30 yards",
+        "link": "/stats/stat.380.html"
+    },
+    {
+        "name": "Proximity to Hole from 10-20 yards",
+        "link": "/stats/stat.381.html"
+    },
+    {
+        "name": "Proximity to Hole from < 10 yards",
+        "link": "/stats/stat.382.html"
+    },
+    {
+        "name": "Scrambling Average Distance to Hole",
+        "link": "/stats/stat.481.html"
+    },
+    {
+        "name": "Scrambling > 30 yds (RTP Score)",
+        "link": "/stats/stat.466.html"
+    },
+    {
+        "name": "Scrambling 20-30 yds (RTP Score)",
+        "link": "/stats/stat.467.html"
+    },
+    {
+        "name": "Scrambling 10-20 yds (RTP Score)",
+        "link": "/stats/stat.468.html"
+    },
+    {
+        "name": "Scrambling Fringe (RTP Score)",
+        "link": "/stats/stat.465.html"
+    },
+    {
+        "name": "Scrambling Rough (RTP Score)",
+        "link": "/stats/stat.464.html"
+    },
+    {
+        "name": "Official Money",
+        "link": "/stats/stat.109.html"
+    },
+    {
+        "name": "Career Money Leaders",
+        "link": "/stats/stat.110.html"
+    },
+    {
+        "name": "Career Earnings",
+        "link": "/stats/stat.014.html"
+    },
+    {
+        "name": "Non-member Earnings",
+        "link": "/stats/stat.139.html"
+    },
+    {
+        "name": "Non-Member Off+WGC Earnings",
+        "link": "/stats/stat.02677.html"
+    },
+    {
+        "name": "Money Leaders - Fall Series",
+        "link": "/stats/stat.02444.html"
+    },
+    {
+        "name": "FedExCup Bonus Money",
+        "link": "/stats/stat.02396.html"
+    },
+    {
+        "name": "Money per Event Leaders",
+        "link": "/stats/stat.154.html"
+    },
+    {
+        "name": "Total Money (Official and Unofficial)",
+        "link": "/stats/stat.194.html"
+    },
+    {
+        "name": "Percentage of Available Purse Won",
+        "link": "/stats/stat.02337.html"
+    },
+    {
+        "name": "Percentage of potential money won",
+        "link": "/stats/stat.02447.html"
+    },
+    {
+        "name": "Top 10 Finishes",
+        "link": "/stats/stat.138.html"
+    },
+    {
+        "name": "Victory Leaders",
+        "link": "/stats/stat.300.html"
+    },
+    {
+        "name": "SG: Tee-to-Green",
+        "link": "/stats/stat.02674.html"
+    },
+    {
+        "name": "SG: Off-the-Tee",
+        "link": "/stats/stat.02567.html"
+    },
+    {
+        "name": "Longest Drives",
+        "link": "/stats/stat.159.html"
+    },
+    {
+        "name": "Driving Distance",
+        "link": "/stats/stat.101.html"
+    },
+    {
+        "name": "Driving Pct. 320+ (Measured)",
+        "link": "/stats/stat.496.html"
+    },
+    {
+        "name": "Driving Pct. 300-320 (Measured)",
+        "link": "/stats/stat.495.html"
+    },
+    {
+        "name": "Driving Pct. 300+ (Measured)",
+        "link": "/stats/stat.454.html"
+    },
+    {
+        "name": "Driving Pct. 280-300 (Measured)",
+        "link": "/stats/stat.455.html"
+    },
+    {
+        "name": "Driving Pct. 260-280 (Measured)",
+        "link": "/stats/stat.456.html"
+    },
+    {
+        "name": "Driving Pct. 240-260 (Measured)",
+        "link": "/stats/stat.457.html"
+    },
+    {
+        "name": "Driving Pct. <= 240 (Measured)",
+        "link": "/stats/stat.458.html"
+    },
+    {
+        "name": "Driving Distance - All Drives",
+        "link": "/stats/stat.317.html"
+    },
+    {
+        "name": "Driving Pct. 320+ (All Drives)",
+        "link": "/stats/stat.02433.html"
+    },
+    {
+        "name": "Driving Pct. 300-320 (All Drives)",
+        "link": "/stats/stat.02432.html"
+    },
+    {
+        "name": "Driving Pct. 300+ (All Drives)",
+        "link": "/stats/stat.214.html"
+    },
+    {
+        "name": "Driving Pct. 280-300 (All Drives)",
+        "link": "/stats/stat.215.html"
+    },
+    {
+        "name": "Driving Pct. 260-280 (All Drives)",
+        "link": "/stats/stat.216.html"
+    },
+    {
+        "name": "Driving Pct. 240-260 (All Drives)",
+        "link": "/stats/stat.217.html"
+    },
+    {
+        "name": "Driving Pct. <= 240 (All Drives)",
+        "link": "/stats/stat.218.html"
+    },
+    {
+        "name": "Percentage of Yardage covered by Tee Shots",
+        "link": "/stats/stat.02341.html"
+    },
+    {
+        "name": "Percentage of Yardage covered by Tee Shots - Par 4's",
+        "link": "/stats/stat.02342.html"
+    },
+    {
+        "name": "Percentage of Yardage covered by Tee Shots - Par 5's",
+        "link": "/stats/stat.02343.html"
+    },
+    {
+        "name": "Driving Distance",
+        "link": "/stats/stat.101.html"
+    },
+    {
+        "name": "Driving Pct. 320+ (Measured)",
+        "link": "/stats/stat.496.html"
+    },
+    {
+        "name": "Driving Pct. 300-320 (Measured)",
+        "link": "/stats/stat.495.html"
+    },
+    {
+        "name": "Driving Pct. 300+ (Measured)",
+        "link": "/stats/stat.454.html"
+    },
+    {
+        "name": "Driving Pct. 280-300 (Measured)",
+        "link": "/stats/stat.455.html"
+    },
+    {
+        "name": "Driving Pct. 260-280 (Measured)",
+        "link": "/stats/stat.456.html"
+    },
+    {
+        "name": "Driving Pct. 240-260 (Measured)",
+        "link": "/stats/stat.457.html"
+    },
+    {
+        "name": "Driving Pct. <= 240 (Measured)",
+        "link": "/stats/stat.458.html"
+    },
+    {
+        "name": "Driving Accuracy Percentage",
+        "link": "/stats/stat.102.html"
+    },
+    {
+        "name": "Rough Tendency",
+        "link": "/stats/stat.02435.html"
+    },
+    {
+        "name": "Left Rough Tendency",
+        "link": "/stats/stat.459.html"
+    },
+    {
+        "name": "Right Rough Tendency",
+        "link": "/stats/stat.460.html"
+    },
+    {
+        "name": "Right Rough Tendency (RTP Score)",
+        "link": "/stats/stat.080.html"
+    },
+    {
+        "name": "Left Rough Tendency (RTP Score)",
+        "link": "/stats/stat.081.html"
+    },
+    {
+        "name": "Fairway Bunker Tendency",
+        "link": "/stats/stat.01008.html"
+    },
+    {
+        "name": "Missed Fairway Percent - Other",
+        "link": "/stats/stat.461.html"
+    },
+    {
+        "name": "Hit Fairway Percentage",
+        "link": "/stats/stat.213.html"
+    },
+    {
+        "name": "Distance from Edge of Fairway",
+        "link": "/stats/stat.02420.html"
+    },
+    {
+        "name": "Distance from Center of Fairway",
+        "link": "/stats/stat.02421.html"
+    },
+    {
+        "name": "Left Tendency",
+        "link": "/stats/stat.02422.html"
+    },
+    {
+        "name": "Right Tendency",
+        "link": "/stats/stat.02423.html"
+    },
+    {
+        "name": "Good Drive Percentage",
+        "link": "/stats/stat.02438.html"
+    },
+    {
+        "name": "Right Rough Tendency (RTP Score)",
+        "link": "/stats/stat.080.html"
+    },
+    {
+        "name": "Left Rough Tendency (RTP Score)",
+        "link": "/stats/stat.081.html"
+    },
+    {
+        "name": "Total Driving",
+        "link": "/stats/stat.129.html"
+    },
+    {
+        "name": "Ball Striking",
+        "link": "/stats/stat.158.html"
+    },
+    {
+        "name": "Club Head Speed",
+        "link": "/stats/stat.02401.html"
+    },
+    {
+        "name": "Ball Speed",
+        "link": "/stats/stat.02402.html"
+    },
+    {
+        "name": "Smash Factor",
+        "link": "/stats/stat.02403.html"
+    },
+    {
+        "name": "Launch Angle",
+        "link": "/stats/stat.02404.html"
+    },
+    {
+        "name": "Spin Rate",
+        "link": "/stats/stat.02405.html"
+    },
+    {
+        "name": "Distance to Apex",
+        "link": "/stats/stat.02406.html"
+    },
+    {
+        "name": "Apex Height",
+        "link": "/stats/stat.02407.html"
+    },
+    {
+        "name": "Hang Time",
+        "link": "/stats/stat.02408.html"
+    },
+    {
+        "name": "Carry Distance",
+        "link": "/stats/stat.02409.html"
+    },
+    {
+        "name": "Carry Efficiency",
+        "link": "/stats/stat.02410.html"
+    },
+    {
+        "name": "Total Distance Efficiency",
+        "link": "/stats/stat.02411.html"
+    },
+    {
+        "name": "Total Driving Efficiency",
+        "link": "/stats/stat.02412.html"
+    },
+    {
+        "name": "SG: Putting",
+        "link": "/stats/stat.02564.html"
+    },
+    {
+        "name": "One-Putt Percentage",
+        "link": "/stats/stat.413.html"
+    },
+    {
+        "name": "One-Putt Percentage - Round 1",
+        "link": "/stats/stat.414.html"
+    },
+    {
+        "name": "One-Putt Percentage - Round 2",
+        "link": "/stats/stat.415.html"
+    },
+    {
+        "name": "One-Putt Percentage - Round 3",
+        "link": "/stats/stat.416.html"
+    },
+    {
+        "name": "One-Putt Percentage - Round 4",
+        "link": "/stats/stat.417.html"
+    },
+    {
+        "name": "One-Putt Percentage - Round 5",
+        "link": "/stats/stat.418.html"
+    },
+    {
+        "name": "Total 1 Putts - Inside 5'",
+        "link": "/stats/stat.420.html"
+    },
+    {
+        "name": "Total 1 Putts - 5-10'",
+        "link": "/stats/stat.421.html"
+    },
+    {
+        "name": "Total 1 Putts - 10-15'",
+        "link": "/stats/stat.422.html"
+    },
+    {
+        "name": "Total 1 Putts - 15-20'",
+        "link": "/stats/stat.423.html"
+    },
+    {
+        "name": "Total 1 Putts - 20-25'",
+        "link": "/stats/stat.424.html"
+    },
+    {
+        "name": "Total 1 Putts - > 25'",
+        "link": "/stats/stat.425.html"
+    },
+    {
+        "name": "1-Putts per Round",
+        "link": "/stats/stat.398.html"
+    },
+    {
+        "name": "Longest Putts",
+        "link": "/stats/stat.498.html"
+    },
+    {
+        "name": "3-Putt Avoidance",
+        "link": "/stats/stat.426.html"
+    },
+    {
+        "name": "3-Putt Avoidance - Round 1",
+        "link": "/stats/stat.427.html"
+    },
+    {
+        "name": "3-Putt Avoidance - Round 2",
+        "link": "/stats/stat.428.html"
+    },
+    {
+        "name": "3-Putt Avoidance - Round 3",
+        "link": "/stats/stat.429.html"
+    },
+    {
+        "name": "3-Putt Avoidance - Round 4",
+        "link": "/stats/stat.430.html"
+    },
+    {
+        "name": "3-Putt Avoidance - Round 5",
+        "link": "/stats/stat.440.html"
+    },
+    {
+        "name": "3-Putt Avoidance - Inside 5'",
+        "link": "/stats/stat.068.html"
+    },
+    {
+        "name": "3-Putt Avoidance - 5-10'",
+        "link": "/stats/stat.069.html"
+    },
+    {
+        "name": "3-Putt Avoidance - 10-15'",
+        "link": "/stats/stat.070.html"
+    },
+    {
+        "name": "3-Putt Avoidance - 15-20'",
+        "link": "/stats/stat.145.html"
+    },
+    {
+        "name": "3-Putt Avoidance - 20-25'",
+        "link": "/stats/stat.146.html"
+    },
+    {
+        "name": "3-Putt Avoidance > 25'",
+        "link": "/stats/stat.147.html"
+    },
+    {
+        "name": "Total 3 Putts - Inside 5'",
+        "link": "/stats/stat.441.html"
+    },
+    {
+        "name": "Total 3 Putts - 5-10'",
+        "link": "/stats/stat.442.html"
+    },
+    {
+        "name": "Total 3 Putts - 10-15'",
+        "link": "/stats/stat.443.html"
+    },
+    {
+        "name": "Total 3 Putts - 15-20'",
+        "link": "/stats/stat.444.html"
+    },
+    {
+        "name": "Total 3 Putts - 20-25'",
+        "link": "/stats/stat.445.html"
+    },
+    {
+        "name": "Total 3 Putts - > 25'",
+        "link": "/stats/stat.446.html"
+    },
+    {
+        "name": "3-Putts per Round",
+        "link": "/stats/stat.400.html"
+    },
+    {
+        "name": "3+ Putts per Round",
+        "link": "/stats/stat.401.html"
+    },
+    {
+        "name": "Putting from - > 25'",
+        "link": "/stats/stat.408.html"
+    },
+    {
+        "name": "Putting from - > 20'",
+        "link": "/stats/stat.02429.html"
+    },
+    {
+        "name": "Putting from 15-25'",
+        "link": "/stats/stat.02328.html"
+    },
+    {
+        "name": "Putting from - 20-25'",
+        "link": "/stats/stat.407.html"
+    },
+    {
+        "name": "Putting from - 15-20'",
+        "link": "/stats/stat.406.html"
+    },
+    {
+        "name": "Putting from 5-15'",
+        "link": "/stats/stat.02327.html"
+    },
+    {
+        "name": "Putting from - 10-15'",
+        "link": "/stats/stat.405.html"
+    },
+    {
+        "name": "Putting - Inside 10'",
+        "link": "/stats/stat.484.html"
+    },
+    {
+        "name": "Putting from 5-10'",
+        "link": "/stats/stat.404.html"
+    },
+    {
+        "name": "Putting from 3-5'",
+        "link": "/stats/stat.02427.html"
+    },
+    {
+        "name": "Putting from Inside 5'",
+        "link": "/stats/stat.403.html"
+    },
+    {
+        "name": "Putting from 10'",
+        "link": "/stats/stat.348.html"
+    },
+    {
+        "name": "Putting from 9'",
+        "link": "/stats/stat.347.html"
+    },
+    {
+        "name": "Putting from 8'",
+        "link": "/stats/stat.346.html"
+    },
+    {
+        "name": "Putting from 7'",
+        "link": "/stats/stat.345.html"
+    },
+    {
+        "name": "Putting from 6'",
+        "link": "/stats/stat.344.html"
+    },
+    {
+        "name": "Putting from 5'",
+        "link": "/stats/stat.343.html"
+    },
+    {
+        "name": "Putting from - > 10'",
+        "link": "/stats/stat.356.html"
+    },
+    {
+        "name": "Putting from 4-8'",
+        "link": "/stats/stat.485.html"
+    },
+    {
+        "name": "Putting from 4'",
+        "link": "/stats/stat.342.html"
+    },
+    {
+        "name": "Putting from 3'",
+        "link": "/stats/stat.341.html"
+    },
+    {
+        "name": "Putts Made Per Event Over 10'",
+        "link": "/stats/stat.434.html"
+    },
+    {
+        "name": "Putts Made Per Event Over 20'",
+        "link": "/stats/stat.435.html"
+    },
+    {
+        "name": "GIR Putting Avg - > 35'",
+        "link": "/stats/stat.073.html"
+    },
+    {
+        "name": "GIR Putting Avg - 30-35'",
+        "link": "/stats/stat.072.html"
+    },
+    {
+        "name": "GIR Putting Avg - 25-30'",
+        "link": "/stats/stat.071.html"
+    },
+    {
+        "name": "GIR Putting - > 25'",
+        "link": "/stats/stat.388.html"
+    },
+    {
+        "name": "GIR Putting - 20-25'",
+        "link": "/stats/stat.387.html"
+    },
+    {
+        "name": "GIR Putting - 15-20'",
+        "link": "/stats/stat.386.html"
+    },
+    {
+        "name": "GIR Putting - 10-15'",
+        "link": "/stats/stat.385.html"
+    },
+    {
+        "name": "GIR Putting - 5-10'",
+        "link": "/stats/stat.384.html"
+    },
+    {
+        "name": "GIR Putting - Inside 5'",
+        "link": "/stats/stat.383.html"
+    },
+    {
+        "name": "Putts Per Round",
+        "link": "/stats/stat.119.html"
+    },
+    {
+        "name": "Putts per Round - Round 1",
+        "link": "/stats/stat.393.html"
+    },
+    {
+        "name": "Putts per Round - Round 2",
+        "link": "/stats/stat.394.html"
+    },
+    {
+        "name": "Putts per Round - Round 3",
+        "link": "/stats/stat.395.html"
+    },
+    {
+        "name": "Putts per Round - Round 4",
+        "link": "/stats/stat.396.html"
+    },
+    {
+        "name": "Putts per Round - Round 5",
+        "link": "/stats/stat.397.html"
+    },
+    {
+        "name": "1-Putts per Round",
+        "link": "/stats/stat.398.html"
+    },
+    {
+        "name": "2-Putts per Round",
+        "link": "/stats/stat.399.html"
+    },
+    {
+        "name": "3-Putts per Round",
+        "link": "/stats/stat.400.html"
+    },
+    {
+        "name": "3+ Putts per Round",
+        "link": "/stats/stat.401.html"
+    },
+    {
+        "name": "Total Putting",
+        "link": "/stats/stat.02428.html"
+    },
+    {
+        "name": "Bonus Putting",
+        "link": "/stats/stat.02439.html"
+    },
+    {
+        "name": "Putting Average",
+        "link": "/stats/stat.104.html"
+    },
+    {
+        "name": "Overall Putting Average",
+        "link": "/stats/stat.402.html"
+    },
+    {
+        "name": "Birdie or Better Conversion Percentage",
+        "link": "/stats/stat.115.html"
+    },
+    {
+        "name": "Average Putting Distance - All 1 putts",
+        "link": "/stats/stat.409.html"
+    },
+    {
+        "name": "Average Putting Distance - All 2 putts",
+        "link": "/stats/stat.410.html"
+    },
+    {
+        "name": "Average Putting Distance - All 3 putts",
+        "link": "/stats/stat.411.html"
+    },
+    {
+        "name": "Average Putting Distance - All 3+ putts",
+        "link": "/stats/stat.412.html"
+    },
+    {
+        "name": "Average Putting Distance - GIR 1 Putts",
+        "link": "/stats/stat.389.html"
+    },
+    {
+        "name": "Average Putting Distance - GIR 2 Putts",
+        "link": "/stats/stat.390.html"
+    },
+    {
+        "name": "Average Putting Distance - GIR 3 Putts",
+        "link": "/stats/stat.391.html"
+    },
+    {
+        "name": "Average Putting Distance - GIR 3+ Putts",
+        "link": "/stats/stat.392.html"
+    },
+    {
+        "name": "Average Distance of Putts made",
+        "link": "/stats/stat.438.html"
+    },
+    {
+        "name": "Average Distance of Birdie putts made",
+        "link": "/stats/stat.02440.html"
+    },
+    {
+        "name": "Average Distance of Eagle putts made",
+        "link": "/stats/stat.02442.html"
+    },
+    {
+        "name": "Putts made Distance",
+        "link": "/stats/stat.135.html"
+    },
+    {
+        "name": "Approach Putt Performance",
+        "link": "/stats/stat.349.html"
+    },
+    {
+        "name": "SG: Total",
+        "link": "/stats/stat.02675.html"
+    },
+    {
+        "name": "Scoring Average",
+        "link": "/stats/stat.120.html"
+    },
+    {
+        "name": "Scoring Average (Actual)",
+        "link": "/stats/stat.108.html"
+    },
+    {
+        "name": "Scoring Average Before Cut",
+        "link": "/stats/stat.116.html"
+    },
+    {
+        "name": "Stroke Differential Field Average",
+        "link": "/stats/stat.02417.html"
+    },
+    {
+        "name": "Lowest Round",
+        "link": "/stats/stat.299.html"
+    },
+    {
+        "name": "Rounds in the 60's",
+        "link": "/stats/stat.152.html"
+    },
+    {
+        "name": "Sub-Par Rounds",
+        "link": "/stats/stat.153.html"
+    },
+    {
+        "name": "Par 3 Birdie or Better Leaders",
+        "link": "/stats/stat.112.html"
+    },
+    {
+        "name": "Par 4 Birdie or Better Leaders",
+        "link": "/stats/stat.113.html"
+    },
+    {
+        "name": "Par 5 Birdie or Better Leaders",
+        "link": "/stats/stat.114.html"
+    },
+    {
+        "name": "Par 4 Eagle Leaders",
+        "link": "/stats/stat.447.html"
+    },
+    {
+        "name": "Par 5 Eagle Leaders",
+        "link": "/stats/stat.448.html"
+    },
+    {
+        "name": "Eagles (Holes per)",
+        "link": "/stats/stat.155.html"
+    },
+    {
+        "name": "Total Eagles",
+        "link": "/stats/stat.106.html"
+    },
+    {
+        "name": "Par Breakers",
+        "link": "/stats/stat.105.html"
+    },
+    {
+        "name": "Birdie Average",
+        "link": "/stats/stat.156.html"
+    },
+    {
+        "name": "Total Birdies",
+        "link": "/stats/stat.107.html"
+    },
+    {
+        "name": "Bounce Back",
+        "link": "/stats/stat.160.html"
+    },
+    {
+        "name": "Birdie to Bogey Ratio",
+        "link": "/stats/stat.02415.html"
+    },
+    {
+        "name": "Birdie or Better Percentage",
+        "link": "/stats/stat.352.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 200+ yards",
+        "link": "/stats/stat.357.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 175-200 yards",
+        "link": "/stats/stat.358.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 150-175 yards",
+        "link": "/stats/stat.359.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - 125-150 yards",
+        "link": "/stats/stat.360.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - < 125 yards",
+        "link": "/stats/stat.361.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Fairway",
+        "link": "/stats/stat.02333.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Left Rough",
+        "link": "/stats/stat.02334.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Right Rough",
+        "link": "/stats/stat.02335.html"
+    },
+    {
+        "name": "Birdie or Better Percentage - Rough",
+        "link": "/stats/stat.02336.html"
+    },
+    {
+        "name": "Bogey Avoidance",
+        "link": "/stats/stat.02414.html"
+    },
+    {
+        "name": "Birdie to Bogey Ratio",
+        "link": "/stats/stat.02415.html"
+    },
+    {
+        "name": "Reverse Bounce Back",
+        "link": "/stats/stat.02416.html"
+    },
+    {
+        "name": "Bogey Average",
+        "link": "/stats/stat.02419.html"
+    },
+    {
+        "name": "Final Round Scoring Average",
+        "link": "/stats/stat.118.html"
+    },
+    {
+        "name": "Final Round Performance",
+        "link": "/stats/stat.219.html"
+    },
+    {
+        "name": "Top 10 Final Round Performance",
+        "link": "/stats/stat.220.html"
+    },
+    {
+        "name": "Top 5 Final Round Performance",
+        "link": "/stats/stat.309.html"
+    },
+    {
+        "name": "11-25 Final Round Performance",
+        "link": "/stats/stat.310.html"
+    },
+    {
+        "name": "25+ Final Round Performance",
+        "link": "/stats/stat.311.html"
+    },
+    {
+        "name": "6-10 Final Round Performance",
+        "link": "/stats/stat.453.html"
+    },
+    {
+        "name": "Round 1 Scoring Average",
+        "link": "/stats/stat.148.html"
+    },
+    {
+        "name": "Round 2 Scoring Average",
+        "link": "/stats/stat.149.html"
+    },
+    {
+        "name": "Round 3 Scoring Average",
+        "link": "/stats/stat.117.html"
+    },
+    {
+        "name": "Round 4 Scoring Average",
+        "link": "/stats/stat.285.html"
+    },
+    {
+        "name": "Round 5 Scoring Average",
+        "link": "/stats/stat.286.html"
+    },
+    {
+        "name": "Front 9 Round 1 Scoring Average",
+        "link": "/stats/stat.245.html"
+    },
+    {
+        "name": "Back 9 Round 1 Scoring Average",
+        "link": "/stats/stat.246.html"
+    },
+    {
+        "name": "Front 9 Round 2 Scoring Average",
+        "link": "/stats/stat.253.html"
+    },
+    {
+        "name": "Back 9 Round 2 Scoring Average",
+        "link": "/stats/stat.254.html"
+    },
+    {
+        "name": "Front 9 Round 3 Scoring Average",
+        "link": "/stats/stat.261.html"
+    },
+    {
+        "name": "Front 9 Round 4 Scoring Average",
+        "link": "/stats/stat.269.html"
+    },
+    {
+        "name": "Front 9 Round 5 Scoring Average",
+        "link": "/stats/stat.277.html"
+    },
+    {
+        "name": "Par 3 Performance",
+        "link": "/stats/stat.171.html"
+    },
+    {
+        "name": "Par 3 Scoring Average",
+        "link": "/stats/stat.142.html"
+    },
+    {
+        "name": "Par 3 Birdie or Better Leaders",
+        "link": "/stats/stat.112.html"
+    },
+    {
+        "name": "Par 4 Performance",
+        "link": "/stats/stat.172.html"
+    },
+    {
+        "name": "Par 4 Scoring Average",
+        "link": "/stats/stat.143.html"
+    },
+    {
+        "name": "Par 4 Birdie or Better Leaders",
+        "link": "/stats/stat.113.html"
+    },
+    {
+        "name": "Par 5 Performance",
+        "link": "/stats/stat.173.html"
+    },
+    {
+        "name": "Par 5 Scoring Average",
+        "link": "/stats/stat.144.html"
+    },
+    {
+        "name": "Par 5 Eagle Leaders",
+        "link": "/stats/stat.448.html"
+    },
+    {
+        "name": "Par 5 Birdie or Better Leaders",
+        "link": "/stats/stat.114.html"
+    },
+    {
+        "name": "Early Par 3 Scoring Average",
+        "link": "/stats/stat.223.html"
+    },
+    {
+        "name": "Early Par 4 Scoring Average",
+        "link": "/stats/stat.231.html"
+    },
+    {
+        "name": "Early Par 5 Scoring Average",
+        "link": "/stats/stat.239.html"
+    },
+    {
+        "name": "Late Par 3 Scoring Average",
+        "link": "/stats/stat.224.html"
+    },
+    {
+        "name": "Late Par 4 Scoring Average",
+        "link": "/stats/stat.232.html"
+    },
+    {
+        "name": "Late Par 5 Scoring Average",
+        "link": "/stats/stat.240.html"
+    },
+    {
+        "name": "Front 9 Scoring Average",
+        "link": "/stats/stat.207.html"
+    },
+    {
+        "name": "Front 9 Lowest Round",
+        "link": "/stats/stat.301.html"
+    },
+    {
+        "name": "Front 9 Par 3 Scoring Average",
+        "link": "/stats/stat.221.html"
+    },
+    {
+        "name": "Front 9 Par 4 Scoring Average",
+        "link": "/stats/stat.229.html"
+    },
+    {
+        "name": "Front 9 Par 5 Scoring Average",
+        "link": "/stats/stat.237.html"
+    },
+    {
+        "name": "Front 9 Round 1 Scoring Average",
+        "link": "/stats/stat.245.html"
+    },
+    {
+        "name": "Front 9 Round 2 Scoring Average",
+        "link": "/stats/stat.253.html"
+    },
+    {
+        "name": "Front 9 Round 3 Scoring Average",
+        "link": "/stats/stat.261.html"
+    },
+    {
+        "name": "Front 9 Round 4 Scoring Average",
+        "link": "/stats/stat.269.html"
+    },
+    {
+        "name": "Front 9 Round 5 Scoring Average",
+        "link": "/stats/stat.277.html"
+    },
+    {
+        "name": "Back 9 Scoring Average",
+        "link": "/stats/stat.208.html"
+    },
+    {
+        "name": "Back 9 Lowest Round",
+        "link": "/stats/stat.302.html"
+    },
+    {
+        "name": "Back 9 Par 3 Scoring Average",
+        "link": "/stats/stat.222.html"
+    },
+    {
+        "name": "Back 9 Par 4 Scoring Average",
+        "link": "/stats/stat.230.html"
+    },
+    {
+        "name": "Back 9 Par 5 Scoring Average",
+        "link": "/stats/stat.238.html"
+    },
+    {
+        "name": "Back 9 Round 1 Scoring Average",
+        "link": "/stats/stat.246.html"
+    },
+    {
+        "name": "Back 9 Round 2 Scoring Average",
+        "link": "/stats/stat.254.html"
+    },
+    {
+        "name": "Back 9 Round 3 Scoring Average",
+        "link": "/stats/stat.262.html"
+    },
+    {
+        "name": "Back 9 Round 4 Scoring Average",
+        "link": "/stats/stat.270.html"
+    },
+    {
+        "name": "Back 9 Round 5 Scoring Average",
+        "link": "/stats/stat.278.html"
+    },
+    {
+        "name": "Early Scoring Average",
+        "link": "/stats/stat.292.html"
+    },
+    {
+        "name": "Early Lowest Round",
+        "link": "/stats/stat.303.html"
+    },
+    {
+        "name": "First Tee Early Scoring Average",
+        "link": "/stats/stat.209.html"
+    },
+    {
+        "name": "Tenth Tee Early Scoring Average",
+        "link": "/stats/stat.210.html"
+    },
+    {
+        "name": "Early Par 3 Scoring Average",
+        "link": "/stats/stat.223.html"
+    },
+    {
+        "name": "Early Par 4 Scoring Average",
+        "link": "/stats/stat.231.html"
+    },
+    {
+        "name": "Early Par 5 Scoring Average",
+        "link": "/stats/stat.239.html"
+    },
+    {
+        "name": "Early Round 1 Scoring Average",
+        "link": "/stats/stat.247.html"
+    },
+    {
+        "name": "Early Round 2 Scoring Average",
+        "link": "/stats/stat.255.html"
+    },
+    {
+        "name": "Early Round 3 Scoring Average",
+        "link": "/stats/stat.263.html"
+    },
+    {
+        "name": "Early Round 4 Scoring Average",
+        "link": "/stats/stat.271.html"
+    },
+    {
+        "name": "Early Round 5 Scoring Average",
+        "link": "/stats/stat.279.html"
+    },
+    {
+        "name": "First Tee Early Par 3 Scoring Average",
+        "link": "/stats/stat.225.html"
+    },
+    {
+        "name": "Tenth Tee Early Par 3 Scoring Average",
+        "link": "/stats/stat.226.html"
+    },
+    {
+        "name": "First Tee Early Par 4 Scoring Average",
+        "link": "/stats/stat.233.html"
+    },
+    {
+        "name": "Tenth Tee Early Par 4 Scoring Average",
+        "link": "/stats/stat.234.html"
+    },
+    {
+        "name": "First Tee Early Par 5 Scoring Average",
+        "link": "/stats/stat.241.html"
+    },
+    {
+        "name": "Tenth Tee Early Par 5 Scoring Average",
+        "link": "/stats/stat.242.html"
+    },
+    {
+        "name": "First Tee Early Round 1 Scoring Average",
+        "link": "/stats/stat.249.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 1 Scoring Average",
+        "link": "/stats/stat.250.html"
+    },
+    {
+        "name": "First Tee Early Round 2 Scoring Average",
+        "link": "/stats/stat.257.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 2 Scoring Average",
+        "link": "/stats/stat.258.html"
+    },
+    {
+        "name": "First Tee Early Round 3 Scoring Average",
+        "link": "/stats/stat.265.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 3 Scoring Average",
+        "link": "/stats/stat.266.html"
+    },
+    {
+        "name": "First Tee Early Round 4 Scoring Average",
+        "link": "/stats/stat.273.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 4 Scoring Average",
+        "link": "/stats/stat.274.html"
+    },
+    {
+        "name": "First Tee Early Round 5 Scoring Average",
+        "link": "/stats/stat.281.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 5 Scoring Average",
+        "link": "/stats/stat.282.html"
+    },
+    {
+        "name": "First Tee Early Lowest Round",
+        "link": "/stats/stat.305.html"
+    },
+    {
+        "name": "Tenth Tee Early Lowest Round",
+        "link": "/stats/stat.306.html"
+    },
+    {
+        "name": "Late Scoring Average",
+        "link": "/stats/stat.293.html"
+    },
+    {
+        "name": "Late Lowest Round",
+        "link": "/stats/stat.304.html"
+    },
+    {
+        "name": "Late Par 3 Scoring Average",
+        "link": "/stats/stat.224.html"
+    },
+    {
+        "name": "Late Par 4 Scoring Average",
+        "link": "/stats/stat.232.html"
+    },
+    {
+        "name": "Late Par 5 Scoring Average",
+        "link": "/stats/stat.240.html"
+    },
+    {
+        "name": "Late Round 1 Scoring Average",
+        "link": "/stats/stat.248.html"
+    },
+    {
+        "name": "Late Round 2 Scoring Average",
+        "link": "/stats/stat.256.html"
+    },
+    {
+        "name": "Late Round 3 Scoring Average",
+        "link": "/stats/stat.264.html"
+    },
+    {
+        "name": "Late Round 4 Scoring Average",
+        "link": "/stats/stat.272.html"
+    },
+    {
+        "name": "Late Round 5 Scoring Average",
+        "link": "/stats/stat.280.html"
+    },
+    {
+        "name": "First Tee Late Scoring Average",
+        "link": "/stats/stat.211.html"
+    },
+    {
+        "name": "Tenth Tee Late Scoring Average",
+        "link": "/stats/stat.212.html"
+    },
+    {
+        "name": "First Tee Late Par 3 Scoring Average",
+        "link": "/stats/stat.227.html"
+    },
+    {
+        "name": "Tenth Tee Late Par 3 Scoring Average",
+        "link": "/stats/stat.228.html"
+    },
+    {
+        "name": "First Tee Late Par 4 Scoring Average",
+        "link": "/stats/stat.235.html"
+    },
+    {
+        "name": "Tenth Tee Late Par 4 Scoring Average",
+        "link": "/stats/stat.236.html"
+    },
+    {
+        "name": "First Tee Late Par 5 Scoring Average",
+        "link": "/stats/stat.243.html"
+    },
+    {
+        "name": "Tenth Tee Late Par 5 Scoring Average",
+        "link": "/stats/stat.244.html"
+    },
+    {
+        "name": "First Tee Late Round 1 Scoring Average",
+        "link": "/stats/stat.251.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 1 Scoring Average",
+        "link": "/stats/stat.252.html"
+    },
+    {
+        "name": "First Tee Late Round 2 Scoring Average",
+        "link": "/stats/stat.259.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 2 Scoring Average",
+        "link": "/stats/stat.260.html"
+    },
+    {
+        "name": "First Tee Late Round 3 Scoring Average",
+        "link": "/stats/stat.267.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 3 Scoring Average",
+        "link": "/stats/stat.268.html"
+    },
+    {
+        "name": "First Tee Late Round 4 Scoring Average",
+        "link": "/stats/stat.275.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 4 Scoring Average",
+        "link": "/stats/stat.276.html"
+    },
+    {
+        "name": "First Tee Late Round 5 Scoring Average",
+        "link": "/stats/stat.283.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 5 Scoring Average",
+        "link": "/stats/stat.284.html"
+    },
+    {
+        "name": "First Tee Late Lowest Round",
+        "link": "/stats/stat.307.html"
+    },
+    {
+        "name": "Tenth Tee Late Lowest Round",
+        "link": "/stats/stat.308.html"
+    },
+    {
+        "name": "First Tee Early Scoring Average",
+        "link": "/stats/stat.209.html"
+    },
+    {
+        "name": "First Tee Late Scoring Average",
+        "link": "/stats/stat.211.html"
+    },
+    {
+        "name": "First Tee Early Par 3 Scoring Average",
+        "link": "/stats/stat.225.html"
+    },
+    {
+        "name": "First Tee Late Par 3 Scoring Average",
+        "link": "/stats/stat.227.html"
+    },
+    {
+        "name": "First Tee Early Par 4 Scoring Average",
+        "link": "/stats/stat.233.html"
+    },
+    {
+        "name": "First Tee Late Par 4 Scoring Average",
+        "link": "/stats/stat.235.html"
+    },
+    {
+        "name": "First Tee Early Par 5 Scoring Average",
+        "link": "/stats/stat.241.html"
+    },
+    {
+        "name": "First Tee Late Par 5 Scoring Average",
+        "link": "/stats/stat.243.html"
+    },
+    {
+        "name": "First Tee Early Round 1 Scoring Average",
+        "link": "/stats/stat.249.html"
+    },
+    {
+        "name": "First Tee Late Round 1 Scoring Average",
+        "link": "/stats/stat.251.html"
+    },
+    {
+        "name": "First Tee Early Round 2 Scoring Average",
+        "link": "/stats/stat.257.html"
+    },
+    {
+        "name": "First Tee Late Round 2 Scoring Average",
+        "link": "/stats/stat.259.html"
+    },
+    {
+        "name": "First Tee Early Round 3 Scoring Average",
+        "link": "/stats/stat.265.html"
+    },
+    {
+        "name": "First Tee Late Round 3 Scoring Average",
+        "link": "/stats/stat.267.html"
+    },
+    {
+        "name": "First Tee Early Round 4 Scoring Average",
+        "link": "/stats/stat.273.html"
+    },
+    {
+        "name": "First Tee Late Round 4 Scoring Average",
+        "link": "/stats/stat.275.html"
+    },
+    {
+        "name": "First Tee Early Round 5 Scoring Average",
+        "link": "/stats/stat.281.html"
+    },
+    {
+        "name": "First Tee Late Round 5 Scoring Average",
+        "link": "/stats/stat.283.html"
+    },
+    {
+        "name": "First Tee Early Lowest Round",
+        "link": "/stats/stat.305.html"
+    },
+    {
+        "name": "First Tee Late Lowest Round",
+        "link": "/stats/stat.307.html"
+    },
+    {
+        "name": "Tenth Tee Early Scoring Average",
+        "link": "/stats/stat.210.html"
+    },
+    {
+        "name": "Tenth Tee Late Scoring Average",
+        "link": "/stats/stat.212.html"
+    },
+    {
+        "name": "Tenth Tee Early Par 3 Scoring Average",
+        "link": "/stats/stat.226.html"
+    },
+    {
+        "name": "Tenth Tee Late Par 3 Scoring Average",
+        "link": "/stats/stat.228.html"
+    },
+    {
+        "name": "Tenth Tee Early Par 4 Scoring Average",
+        "link": "/stats/stat.234.html"
+    },
+    {
+        "name": "Tenth Tee Late Par 4 Scoring Average",
+        "link": "/stats/stat.236.html"
+    },
+    {
+        "name": "Tenth Tee Early Par 5 Scoring Average",
+        "link": "/stats/stat.242.html"
+    },
+    {
+        "name": "Tenth Tee Late Par 5 Scoring Average",
+        "link": "/stats/stat.244.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 1 Scoring Average",
+        "link": "/stats/stat.250.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 1 Scoring Average",
+        "link": "/stats/stat.252.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 2 Scoring Average",
+        "link": "/stats/stat.258.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 2 Scoring Average",
+        "link": "/stats/stat.260.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 3 Scoring Average",
+        "link": "/stats/stat.266.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 3 Scoring Average",
+        "link": "/stats/stat.268.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 4 Scoring Average",
+        "link": "/stats/stat.274.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 4 Scoring Average",
+        "link": "/stats/stat.276.html"
+    },
+    {
+        "name": "Tenth Tee Early Round 5 Scoring Average",
+        "link": "/stats/stat.282.html"
+    },
+    {
+        "name": "Tenth Tee Late Round 5 Scoring Average",
+        "link": "/stats/stat.284.html"
+    },
+    {
+        "name": "Tenth Tee Early Lowest Round",
+        "link": "/stats/stat.306.html"
+    },
+    {
+        "name": "Tenth Tee Late Lowest Round",
+        "link": "/stats/stat.308.html"
+    },
+    {
+        "name": "Par 3 efficiency < 100 yards",
+        "link": "/stats/stat.02517.html"
+    },
+    {
+        "name": "Par 3 efficiency 100-125 yards",
+        "link": "/stats/stat.02518.html"
+    },
+    {
+        "name": "Par 3 efficiency 125-150 yards",
+        "link": "/stats/stat.02519.html"
+    },
+    {
+        "name": "Par 3 efficiency 150-175 yards",
+        "link": "/stats/stat.02520.html"
+    },
+    {
+        "name": "Par 3 efficiency 175-200 yards",
+        "link": "/stats/stat.02521.html"
+    },
+    {
+        "name": "Par 3 efficiency 200-225 yards",
+        "link": "/stats/stat.02522.html"
+    },
+    {
+        "name": "Par 3 efficiency 225-250 yards",
+        "link": "/stats/stat.02523.html"
+    },
+    {
+        "name": "Par 3 efficiency >250 yards",
+        "link": "/stats/stat.02524.html"
+    },
+    {
+        "name": "Par 4 efficiency < 250 Yards",
+        "link": "/stats/stat.02525.html"
+    },
+    {
+        "name": "Par 4 efficiency 250-300 yards",
+        "link": "/stats/stat.02526.html"
+    },
+    {
+        "name": "Par 4 Efficiency 300-350 yards",
+        "link": "/stats/stat.02527.html"
+    },
+    {
+        "name": "Par 4 Efficiency 350-400 yards",
+        "link": "/stats/stat.02528.html"
+    },
+    {
+        "name": "Par 4 Efficiency 400-450 yards",
+        "link": "/stats/stat.02529.html"
+    },
+    {
+        "name": "Par 4 Efficiency 450-500 yards",
+        "link": "/stats/stat.02530.html"
+    },
+    {
+        "name": "Par 4 Efficiency >500 yards",
+        "link": "/stats/stat.02531.html"
+    },
+    {
+        "name": "Par 5 Efficiency <500 yards",
+        "link": "/stats/stat.02532.html"
+    },
+    {
+        "name": "Par 5 Efficiency 500-550 Yards",
+        "link": "/stats/stat.02533.html"
+    },
+    {
+        "name": "Par 5 Efficiency 550-600 Yards",
+        "link": "/stats/stat.02534.html"
+    },
+    {
+        "name": "Par 5 Efficiency 600-650 Yards",
+        "link": "/stats/stat.02535.html"
+    },
+    {
+        "name": "Par 5 Efficiency >650 Yards",
+        "link": "/stats/stat.02536.html"
+    },
+    {
+        "name": "Consecutive Fairways Hit",
+        "link": "/stats/stat.297.html"
+    },
+    {
+        "name": "Consecutive GIR",
+        "link": "/stats/stat.298.html"
+    },
+    {
+        "name": "Consecutive Sand Saves",
+        "link": "/stats/stat.296.html"
+    },
+    {
+        "name": "Best YTD 1-Putt or Better Streak",
+        "link": "/stats/stat.295.html"
+    },
+    {
+        "name": "Current Streak without a 3-Putt",
+        "link": "/stats/stat.483.html"
+    },
+    {
+        "name": "Best YTD Streak w/o a 3-Putt",
+        "link": "/stats/stat.294.html"
+    },
+    {
+        "name": "Best Rounds in 60's Streak",
+        "link": "/stats/stat.474.html"
+    },
+    {
+        "name": "YTD Rounds in 60's Streak",
+        "link": "/stats/stat.475.html"
+    },
+    {
+        "name": "Best Sub-Par Rounds Streak",
+        "link": "/stats/stat.476.html"
+    },
+    {
+        "name": "YTD Sub-Par Rounds Streak",
+        "link": "/stats/stat.477.html"
+    },
+    {
+        "name": "Current Par or Better Streak",
+        "link": "/stats/stat.150.html"
+    },
+    {
+        "name": "YTD Par or Better Streak",
+        "link": "/stats/stat.482.html"
+    },
+    {
+        "name": "Consecutive Par 3 Birdies",
+        "link": "/stats/stat.449.html"
+    },
+    {
+        "name": "Consecutive Par 4 Birdies",
+        "link": "/stats/stat.450.html"
+    },
+    {
+        "name": "Consecutive Par 5 Birdies",
+        "link": "/stats/stat.451.html"
+    },
+    {
+        "name": "Consecutive Holes Below Par",
+        "link": "/stats/stat.452.html"
+    },
+    {
+        "name": "Consecutive Birdies Streak",
+        "link": "/stats/stat.02672.html"
+    },
+    {
+        "name": "Consecutive Birdies/Eagles streak",
+        "link": "/stats/stat.02673.html"
+    },
+    {
+        "name": "Consecutive Cuts",
+        "link": "/stats/stat.122.html"
+    },
+    {
+        "name": "YTD Consecutive Cuts",
+        "link": "/stats/stat.137.html"
+    },
+    {
+        "name": "Current Streak without a 3-Putt",
+        "link": "/stats/stat.483.html"
+    },
+    {
+        "name": "FedexCup Regular Season Points",
+        "link": "/stats/stat.02394.html"
+    },
+    {
+        "name": "FedExCup Playoffs Points",
+        "link": "/stats/stat.02395.html"
+    },
+    {
+        "name": "FedExCup Points per Event Leaders",
+        "link": "/stats/stat.02562.html"
+    },
+    {
+        "name": "Ryder Cup Points",
+        "link": "/stats/stat.131.html"
+    },
+    {
+        "name": "PGA Championship Points",
+        "link": "/stats/stat.132.html"
+    },
+    {
+        "name": "Presidents Cup (United States)",
+        "link": "/stats/stat.140.html"
+    },
+    {
+        "name": "Presidents Cup (International)",
+        "link": "/stats/stat.187.html"
+    },
+    {
+        "name": "% of Potential Pts won - FedExCup Regular Season",
+        "link": "/stats/stat.02448.html"
+    },
+    {
+        "name": "% of Potential Pts won - FedExCup Playoffs",
+        "link": "/stats/stat.02449.html"
+    },
+    {
+        "name": "FedExCup Season Points for Non-Members",
+        "link": "/stats/stat.02398.html"
+    },
+    {
+        "name": "Non-WGC FedExCup Season Points for Non-Members",
+        "link": "/stats/stat.02667.html"
+    },
+    {
+        "name": "FedExCup Standings",
+        "link": "/stats/stat.02671.html"
+    },
+    {
+        "name": "All-Around Ranking",
+        "link": "/stats/stat.127.html"
+    },
+    {
+        "name": "FedEx Air & Ground",
+        "link": "/stats/stat.02685.html"
+    },
+    {
+        "name": "FedEx Ground Top Performer",
+        "link": "/stats/stat.02689.html"
+    },
+    {
+        "name": "Aon Risk Reward Challenge",
+        "link": "/stats/stat.02445.html"
+    },
+    {
+        "name": "Birdies fore Love",
+        "link": "/stats/stat.02690.html"
+    },
+    {
+        "name": "Official World Golf Ranking",
+        "link": "/stats/stat.186.html"
+    },
+    {
+        "name": "Power Rating",
+        "link": "/stats/stat.085.html"
+    },
+    {
+        "name": "Accuracy Rating",
+        "link": "/stats/stat.086.html"
+    },
+    {
+        "name": "Short Game Rating",
+        "link": "/stats/stat.087.html"
+    },
+    {
+        "name": "Putting Rating",
+        "link": "/stats/stat.088.html"
+    },
+    {
+        "name": "Scoring Rating",
+        "link": "/stats/stat.02346.html"
+    },
+    {
+        "name": "Last 5 Events - Power",
+        "link": "/stats/stat.02347.html"
+    },
+    {
+        "name": "Last 5 Events - Accuracy",
+        "link": "/stats/stat.02348.html"
+    },
+    {
+        "name": "Last 5 Events - Short Game",
+        "link": "/stats/stat.02349.html"
+    },
+    {
+        "name": "Last 5 Events - Putting",
+        "link": "/stats/stat.02350.html"
+    },
+    {
+        "name": "Last 5 Events - Scoring",
+        "link": "/stats/stat.02351.html"
+    },
+    {
+        "name": "Last 15 Events - Power",
+        "link": "/stats/stat.02352.html"
+    },
+    {
+        "name": "Last 15 Events - Accuracy",
+        "link": "/stats/stat.02353.html"
+    },
+    {
+        "name": "Last 15 Events - Short Game",
+        "link": "/stats/stat.02354.html"
+    },
+    {
+        "name": "Last 15 Events - Putting",
+        "link": "/stats/stat.02355.html"
+    },
+    {
+        "name": "Last 15 Events - Scoring",
+        "link": "/stats/stat.02356.html"
+    }
+]
